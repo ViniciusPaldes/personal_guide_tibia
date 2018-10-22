@@ -1,6 +1,6 @@
 # Personal Guide to Tibia
 
-Written in C language during classes in 2009 at Dytz Informática.
+Written in C language during classes in 2008 at Dytz Informática.
 
 ## Features
 
